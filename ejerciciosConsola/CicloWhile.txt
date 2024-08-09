@@ -1,0 +1,15 @@
+import java.util.Scanner;
+
+public class CicloWhile {
+ public static void main (String args []){
+   Scanner in = new Scanner (System.in);   
+   int i =0; 
+   System.out.println("Ingrese el valor de la variable:");
+   i = in.nextInt ();
+
+   while (i<=10){
+    System.out.println(i + ",");
+    i+=2;
+  } 
+ }
+}

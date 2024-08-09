@@ -1,0 +1,12 @@
+import java.util.Scanner;
+public class Contestador {
+  public station void main (String args []){
+   Scanner in = new Scanner (System.in);
+   String = pregunta;
+   
+   System.out.println("Hola");
+   pregunta = in.nextLine ();
+   System.out.println("¿Como estas ?");  
+   pregunta = in.nextLine ();
+ }
+}

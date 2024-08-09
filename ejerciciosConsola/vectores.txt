@@ -1,0 +1,18 @@
+public class vectores {
+  public static void main (String args []){
+ 
+    int numeros[] = new int [5];
+
+    numeros [0]= 5;
+    numeros [1]= 220;
+    numeros [2]= 8;
+    numeros [3]= 458;
+    numeros [4]= 22; 
+    
+    system.out.print("[" + numeros[0] + "]" );
+    system.out.print("[" + numeros[1] + "]" );
+    system.out.print("[" + numeros[2] + "]" );
+    system.out.print("[" + numeros[3] + "]" );
+    system.out.print("[" + numeros[4] + "]" );
+ }
+}
